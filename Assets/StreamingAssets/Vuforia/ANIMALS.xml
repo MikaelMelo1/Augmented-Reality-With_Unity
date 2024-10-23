@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pudu2" size="1.000000 1.000000" />
+    <ImageTarget name="pudu1" size="1.000000 1.000000" />
+    <ImageTarget name="peixe2" size="1.000000 0.571762" />
+    <ImageTarget name="peixe1" size="1.000000 0.783333" />
+    <ImageTarget name="macaco2" size="1.000000 0.957143" />
+    <ImageTarget name="macaco1" size="1.000000 0.940895" />
+    <ImageTarget name="lula2" size="1.000000 1.262887" />
+    <ImageTarget name="lula1" size="1.000000 1.000000" />
+    <ImageTarget name="cobra2" size="1.000000 1.016882" />
+    <ImageTarget name="cobra1" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
